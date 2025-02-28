@@ -1,3 +1,5 @@
+//here the proper game loop runs
+
 import {
   draw as drawSnake,
   update as updateSnake,
